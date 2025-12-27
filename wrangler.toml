@@ -1,8 +1,0 @@
-name = "my-gemini-bot"
-main = "src/index.ts"
-compatibility_date = "2023-12-01"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "synapse_db"
-database_id = "7eaed018-787b-463b-b1da-164fab56f586"
