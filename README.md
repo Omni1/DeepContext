@@ -1,5 +1,5 @@
 DeepContext
-DeepContext is a lightweight, powerful tool designed to package your codebase into AI-ready Markdown. It recursively analyzes your project, generating a single context report that includes a visual file tree and the contents of your files, optimized for LLM consumption.
+is a lightweight, powerful tool designed to package your codebase into AI-ready Markdown. It recursively analyzes your project, generating a single context report that includes a visual file tree and the contents of your files, optimized for LLM consumption.
 
 Features
 Automatic Tree Generation: Visualizes your project structure at a glance.
